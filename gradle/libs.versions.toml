@@ -1,5 +1,5 @@
 [versions]
-navy = "2.1.1"
+navy = "3.4.3"
 spray = "3.4.1"
 
 [libraries]
