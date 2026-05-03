@@ -1,6 +1,6 @@
 [versions]
 navy = "2.1.1"
-spray = "3.4.1"
+spray = "3.4.3"
 
 [libraries]
 navy = { module = "io.ktor:ktor-serialization-kotlinx-json", version.ref = "navy" }
